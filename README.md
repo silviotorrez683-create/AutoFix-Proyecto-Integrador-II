@@ -35,4 +35,4 @@ Sistema de gestión operativa y financiera para un taller automotriz, desarrolla
 Clonar el repositorio:
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/silviotorrez683-create/AutoFix-Proyecto-Integrador-II.git
