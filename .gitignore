@@ -1,0 +1,27 @@
+# Entornos virtuales
+.venv/
+.venv313/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos generados por AutoFix
+facturas/
+reportes_generados/
+respaldos/
+backup/
+*_respaldo_*.db
+*.pdf
+*.csv
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
